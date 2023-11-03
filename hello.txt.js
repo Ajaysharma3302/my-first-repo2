@@ -1,2 +1,2 @@
-let a="hello, GithubI!"
+let a="welcome to my first github repository! "
 console.log("a")
